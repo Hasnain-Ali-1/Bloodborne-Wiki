@@ -1,0 +1,13 @@
+﻿toolID,toolName,toolDescription,bulletUse,arcaneRequirements,arcaneScaling,filepath
+180,Accursed Brew,Throw a concoction of curses at foes.,2,30,S,./frontend/src/Images/180.png
+181,Beast Roar,Loud roar that repels nearby foes and objects.,2,15,,./frontend/src/Images/181.png
+182,Blacksky Eye,Fires a meteor-shaped arcane projectile.,1,16,S,./frontend/src/Images/182.png
+183,Empty Phantasm Shell,Enhances weapon damage with arcane for a short time.,3,15,,./frontend/src/Images/183.png
+184,Executioner's Gloves,Summons wrathful spirits that lock onto a target.,3,20,S,./frontend/src/Images/184.png
+185,Old Hunter Bone,The art of Quickening; speeds up rolls and quicksteps. ,4,15,,./frontend/src/Images/185.png
+186,Tiny Tonitrus,Unleashes blue lightning strikes in front of the caster.,6,25,S,./frontend/src/Images/186.png
+187,Choir Bell,Heals/removes various status inflictions in area of effect.,7,15,S,./frontend/src/Images/187.png
+188,Augur of Ebrietas,Fires multiple tentacles from hand; knocks back a foe. Can stagger enemies from behind or when timed as a parry.,1,18,S,./frontend/src/Images/188.png
+189,Madaras Whistle,Summons a giant and very hungry snake.,4,18,S,./frontend/src/Images/189.png
+190,Messenger's Gift,Transforms you into a messenger.,1,10,,./frontend/src/Images/190.png
+191,A Call Beyond,Summons a small nova with multiple arcane projectiles.,7,40,S,./frontend/src/Images/191.png
