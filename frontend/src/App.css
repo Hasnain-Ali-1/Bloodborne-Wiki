@@ -1,0 +1,62 @@
+/* Import the font files */
+@font-face {
+  font-family: 'Fleshandblood-MVA5x';
+  src: url('Fleshandblood-MVA5x.woff2') format('woff2'),
+       url('Fleshandblood-MVA5x.woff') format('woff');
+}
+
+/* Apply styles */
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Fleshandblood-MVA5x', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 20px 0;
+}
+
+.links, .armor-type-container, .buttons {
+  display: flex;
+  flex-direction: column; /* Change the direction to column */
+  align-items: center; /* Center the links and buttons horizontally */
+}
+
+.links a, .armor-type-button {
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.links a:hover, .armor-type-button:hover {
+  background-color: white;
+  color: black;
+}
+
+.button {
+  text-decoration: none;
+  color: white;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: 'Fleshandblood-MVA5x', sans-serif;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
+}
